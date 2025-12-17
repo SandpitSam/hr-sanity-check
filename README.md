@@ -1,5 +1,3 @@
-# hr-sanity-check
-A small, local-first HR experiment built for curiosity and play. This tool lets people explore common people-management scenarios and reflect on risk and confidence. Nothing is saved, and it offers general guidance only — not legal advice.
 # HR Sanity Check
 
 This is a small, local-first HR experiment built out of curiosity.
